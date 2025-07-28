@@ -1,4 +1,4 @@
-# 📚 AEDS1 - Listas e Exercícios 📘
+# 📚 AEDS1 - Provas, Listas e Exercícios 📘
 _Conjunto de atividades e listas de exercícios desenvolvidos durante a disciplina de Algoritmos e Estruturas de Dados I (AEDS1), no curso de Engenharia da Computação da Universidade do Estado de Minas Gerais (UEMG), Unidade Divinópolis._
 
 ## Contexto Acadêmico 🎓
