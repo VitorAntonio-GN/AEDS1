@@ -17,74 +17,74 @@ Sou aluno de graduação em `Engenharia da Computação` pela `UEMG`, `Unidade D
 <pre>
 AEDS1/
 ├── Listas/                                                   // -> Listas
-│   └── Lista1/                                               // |
-│       └─► <i>Exercícios de 1 a 25</i>                              // |
+│   └── Lista1/                                               // │
+│       └─► <i>Exercícios de 1 a 25</i>                              // │
 │                
 ├── Exercicios/                                               // -> Exercícios de aula
-│   ├── Semana1/                                              // |
-│   |   └─► <i>Exercícios de 1 a 9</i>                               // |
-│   ├── Semana2/                                              // |
-│   |   └─► <i>Exercícios de 1 a 6</i>                               // |
-│   ├── Semana3/                                              // |
-│   |   └─► <i>Exercícios de 1 a 4</i>                               // |
-│   ├── Semana4/                                              // |
-│   |   └─► <i>Exercícios de 1 a 2</i>                               // |
-│   └── Semana5/                                              // |
-│       └─► <i>Exercícios de 1 a 4</i>                               // |
+│   ├── Semana1/                                              // │
+│   │   └─► <i>Exercícios de 1 a 9</i>                               // │
+│   ├── Semana2/                                              // │
+│   │   └─► <i>Exercícios de 1 a 6</i>                               // │
+│   ├── Semana3/                                              // │
+│   │   └─► <i>Exercícios de 1 a 4</i>                               // │
+│   ├── Semana4/                                              // │
+│   │   └─► <i>Exercícios de 1 a 2</i>                               // │
+│   └── Semana5/                                              // │
+│       └─► <i>Exercícios de 1 a 4</i>                               // │
 │
 ├── Avaliacoes/                                               // -> Correção das avaliações
-│   ├── CorrecaoAvaliacao1Matutino/                           // |
-│   |   └─► <i>Exercícios de 1 a 4</i>                               // |
-│   └── CorrecaoAvaliacao2Noturno/                            // |
-│       └─► <i>Exercícios de 1 a 3</i>                               // |
+│   ├── CorrecaoAvaliacao1Matutino/                           // │
+│   │   └─► <i>Exercícios de 1 a 4</i>                               // │
+│   └── CorrecaoAvaliacao2Noturno/                            // │
+│       └─► <i>Exercícios de 1 a 3</i>                               // │
 │
 ├── Extras/
 │   ├── Monitoria/                                            // -> Listas da monitoria
-│   |   ├── Lista2/                                           // |
-│   |   |   └─► <i>Exercícios de 1 a 3</i>                           // |
-│   |   ├── Lista3/                                           // |
-│   |   |   └─► <i>Exercícios de 1 a 5</i>                           // |
-│   |   └── ProjetoSugerido/                                  // |
-│   |       └─► Sistema-Planetario-Interativo.rar             // |
-│   |
+│   │   ├── Lista2/                                           // │
+│   │   │   └─► <i>Exercícios de 1 a 3</i>                           // │
+│   │   ├── Lista3/                                           // │
+│   │   │   └─► <i>Exercícios de 1 a 5</i>                           // │
+│   │   └── ProjetoSugerido/                                  // │
+│   │       └─► Sistema-Planetario-Interativo.rar             // │
+│   │
 │   └── ListasEstudo/                                         // -> Listas de estudo
-│       ├── ListaAvaliacao2/                                  // |
-│       |   └─► <i>Exercícios de 1 a 30</i>                          // |
-│       └── ListaAvaliacao3/                                  // |
-│           └─► <i>Exercícios de 1 a 30</i>                          // |
+│       ├── ListaAvaliacao2/                                  // │
+│       │   └─► <i>Exercícios de 1 a 30</i>                          // │
+│       └── ListaAvaliacao3/                                  // │
+│           └─► <i>Exercícios de 1 a 30</i>                          // │
 │
 ├── PDFs/
 │   ├── Listas/                                               // -> PDF das listas
-│   |   ├─► <i>Lista1.pdf</i>                                        // |
-│   |   ├─► <i>ListaEstudoAvaliacao2.pdf</i>                         // |
-│   |   └─► <i>ListaEstudoAvaliacao3.pdf</i>                         // |
-|   |
+│   │   ├─► <i>Lista1.pdf</i>                                        // │
+│   │   ├─► <i>ListaEstudoAvaliacao2.pdf</i>                         // │
+│   │   └─► <i>ListaEstudoAvaliacao3.pdf</i>                         // │
+│   │
 │   ├── ExerciciosdeAula/                                     // -> PDF dos exercícios de aula
-│   |   ├─► <i>Exercicio1.pdf</i>                                    // |
-│   |   ├─► <i>Exercicio2.pdf</i>                                    // |
-│   |   ├─► <i>Exercicio3.pdf</i>                                    // |
-│   |   ├─► <i>Exercicio4.pdf</i>                                    // |
-│   |   └─► <i>Exercicio5.pdf</i>                                    // |
-│   |
+│   │   ├─► <i>Exercicio1.pdf</i>                                    // │
+│   │   ├─► <i>Exercicio2.pdf</i>                                    // │
+│   │   ├─► <i>Exercicio3.pdf</i>                                    // │
+│   │   ├─► <i>Exercicio4.pdf</i>                                    // │
+│   │   └─► <i>Exercicio5.pdf</i>                                    // │
+│   │
 │   ├── Avaliacoes/                                           // -> PDF das avaliações
-│   |   ├── Avaliacao1/                                       // |
-│   |   |   ├─► <i>Avaliacao1Noturno</i>                             // |
-│   |   |   └─► <i>Avaliacao1Matutino</i>                            // |
-│   |   ├── Avaliacao2/                                       // |
-│   |   |   ├─► <i>Avaliacao2NoturnoSexta</i>                        // |
-│   |   |   ├─► <i>Avaliacao2NoturnoSabado</i>                       // |
-│   |   |   ├─► <i>Avaliacao2Matutino</i>                            // |
-│   |   |   ├─► <i>Avaliacao2Noturno2024</i>                         // |
-│   |   |   └─► <i>Avaliacao2Matutino2024</i>                        // |
-│   |   └── Avalicao3/                                        // |
-│   |       ├─► <i>Avaliacao3Noturno</i>                             // |
-│   |       └─► <i>Avaliacao3Matutino</i>                            // |
-|   |
+│   │   ├── Avaliacao1/                                       // │
+│   │   │   ├─► <i>Avaliacao1Noturno</i>                             // │
+│   │   │   └─► <i>Avaliacao1Matutino</i>                            // │
+│   │   ├── Avaliacao2/                                       // │
+│   │   │   ├─► <i>Avaliacao2NoturnoSexta</i>                        // │
+│   │   │   ├─► <i>Avaliacao2NoturnoSabado</i>                       // │
+│   │   │   ├─► <i>Avaliacao2Matutino</i>                            // │
+│   │   │   ├─► <i>Avaliacao2Noturno2024</i>                         // │
+│   │   │   └─► <i>Avaliacao2Matutino2024</i>                        // │
+│   │   └── Avalicao3/                                        // │
+│   │       ├─► <i>Avaliacao3Noturno</i>                             // │
+│   │       └─► <i>Avaliacao3Matutino</i>                            // │
+│   │
 │   └── Monitoria/                                            // -> PDF da monitoria
-│       ├─► <i>Lista1.md</i>                                         // |
-│       ├─► <i>Lista2.md</i>                                         // |
-│       ├─► <i>Lista3.md</i>                                         // |
-│       └─► <i>ProjetoSugerido.md</i>                                // |
+│       ├─► <i>Lista1.md</i>                                         // │
+│       ├─► <i>Lista2.md</i>                                         // │
+│       ├─► <i>Lista3.md</i>                                         // │
+│       └─► <i>ProjetoSugerido.md</i>                                // │
 │
 ├── LICENSE                                                   // -> Licença do MIT
 └── README.md                                                 // -> Documentação
