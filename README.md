@@ -45,46 +45,13 @@ AEDS1/
 │   │   ├── Lista3/                                           // │
 │   │   │   └─► <i>Exercícios de 1 a 5</i>                           // │
 │   │   └── ProjetoSugerido/                                  // │
-│   │       └─► Sistema-Planetario-Interativo.rar             // │
+│   │       └─► Sistema-Planetario-Interativo.txt             // │
 │   │
 │   └── ListasEstudo/                                         // -> Listas de estudo
 │       ├── ListaAvaliacao2/                                  // │
 │       │   └─► <i>Exercícios de 1 a 30</i>                          // │
 │       └── ListaAvaliacao3/                                  // │
 │           └─► <i>Exercícios de 1 a 30</i>                          // │
-│
-├── PDFs/
-│   ├── Listas/                                               // -> PDF das listas
-│   │   ├─► <i>Lista1.pdf</i>                                        // │
-│   │   ├─► <i>ListaEstudoAvaliacao2.pdf</i>                         // │
-│   │   └─► <i>ListaEstudoAvaliacao3.pdf</i>                         // │
-│   │
-│   ├── ExerciciosdeAula/                                     // -> PDF dos exercícios de aula
-│   │   ├─► <i>Exercicio1.pdf</i>                                    // │
-│   │   ├─► <i>Exercicio2.pdf</i>                                    // │
-│   │   ├─► <i>Exercicio3.pdf</i>                                    // │
-│   │   ├─► <i>Exercicio4.pdf</i>                                    // │
-│   │   └─► <i>Exercicio5.pdf</i>                                    // │
-│   │
-│   ├── Avaliacoes/                                           // -> PDF das avaliações
-│   │   ├── Avaliacao1/                                       // │
-│   │   │   ├─► <i>Avaliacao1Noturno</i>                             // │
-│   │   │   └─► <i>Avaliacao1Matutino</i>                            // │
-│   │   ├── Avaliacao2/                                       // │
-│   │   │   ├─► <i>Avaliacao2NoturnoSexta</i>                        // │
-│   │   │   ├─► <i>Avaliacao2NoturnoSabado</i>                       // │
-│   │   │   ├─► <i>Avaliacao2Matutino</i>                            // │
-│   │   │   ├─► <i>Avaliacao2Noturno2024</i>                         // │
-│   │   │   └─► <i>Avaliacao2Matutino2024</i>                        // │
-│   │   └── Avalicao3/                                        // │
-│   │       ├─► <i>Avaliacao3Noturno</i>                             // │
-│   │       └─► <i>Avaliacao3Matutino</i>                            // │
-│   │
-│   └── Monitoria/                                            // -> PDF da monitoria
-│       ├─► <i>Lista1.md</i>                                         // │
-│       ├─► <i>Lista2.md</i>                                         // │
-│       ├─► <i>Lista3.md</i>                                         // │
-│       └─► <i>ProjetoSugerido.md</i>                                // │
 │
 ├── LICENSE                                                   // -> Licença do MIT
 └── README.md                                                 // -> Documentação
