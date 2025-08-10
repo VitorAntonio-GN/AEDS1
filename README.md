@@ -10,7 +10,7 @@ Sou aluno de graduação em `Engenharia da Computação` pela `UEMG`, `Unidade D
 
 ## Importante 📌
 - A pasta `AEDS1/Extras/` contém materiais complementares que não foram exigidos na avaliação acadêmica, portanto podem estar errados ou incompletos;
-- O arquivo `AEDS1/Extras/Monitoria/Sistema-Planetario-Interativo.rar` é um projeto pessoal postado em [Sistema Planetário Interativo](https://github.com/VitorAntonio-GN/Sistema-Planetario-Interativo);
+- O arquivo `AEDS1/Extras/Monitoria/Sistema-Planetario-Interativo.txt` é um projeto pessoal postado em [Sistema Planetário Interativo](https://github.com/VitorAntonio-GN/Sistema-Planetario-Interativo);
 - Algumas questões tem extensões, indicando mais de uma versão feita da questão. Ex: `Questao[N°]_1`;
 
 ## Estrutura de Diretório 🗂️
